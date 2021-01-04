@@ -1,7 +1,7 @@
 <?php
 $host= '103.28.39.47';
-$user = 'tutien2';
-$password = 'Tr@m123Nh0m2';
+$user = 'tutien4';
+$password = 'Ph@t123Nh0m4';
 $ftpConn = ftp_connect($host);
 $login = ftp_login($ftpConn,$user,$password);
 // check connection
